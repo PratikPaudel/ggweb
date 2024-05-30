@@ -14,7 +14,7 @@ You can play the game directly on the [Guess My Number!](https://pratikpaudel.gi
 To run the game locally:
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/guess-my-number.git
+    git clone https://github.com/PratikPaudel/ggweb
     ```
 2. Open `index.html` in your web browser.
 
